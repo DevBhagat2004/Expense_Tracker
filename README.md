@@ -11,7 +11,7 @@ A secure, user-authenticated expense tracker application built with Python and S
 - Personalized Expenses (Each user sees their own expenses).  
 - Data Visualization (Bar chart of expenses by category).
 
-## 🛠️ How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
